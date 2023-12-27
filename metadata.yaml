@@ -1,11 +1,16 @@
 _repo: Nurhosen-jalk-Kumpp_72246
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Saarela, Antti
     gutenberg_agent_id: '56611'
     url: http://www.gutenberg.org/2009/agents/56611
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72246#Nurhosen-jalk-Kumpp
 gutenberg_issued: '2023-11-28'
 identifiers:
   gutenberg: '72246'
